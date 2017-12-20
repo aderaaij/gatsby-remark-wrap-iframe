@@ -1,7 +1,5 @@
-# gatsby-remark-wrap-iframe
-
 Wraps iframes or objects (e.g. embedded YouTube videos) within markdown files in
-a div with the classname `gatsby-iframe-wrap`. If you want out-of-the-box responsive iframes, please checkout gatsby-remark-repsonsive-iframe instead. 
+a div with the classname `gatsby-iframe-wrap`. If you want out-of-the-box responsive iframes, please checkout [gatsby-remark-repsonsive-iframe](https://www.npmjs.com/package/gatsby-remark-responsive-iframe) instead. 
 
 ## Install
 
