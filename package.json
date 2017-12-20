@@ -1,6 +1,6 @@
 {
   "name": "gatsby-remark-wrap-iframe",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Wrap Iframes in markdown with a div",
   "main": "index.js",
   "scripts": {
